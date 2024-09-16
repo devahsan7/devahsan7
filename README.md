@@ -1,6 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG_VmFORMKBGw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726472068435?e=1732147200&v=beta&t=yn7NhX6NHaXrilBl70rvvMXCRLIwJDstxEbHaRQWoeE">
-<h1 align="center">Hi 👋, I'm Md. Ahsan Ullah</h1>
-<h3 align="center">A Passionate Web Design Developer & WordPress Expert</h3>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQG_VmFORMKBGw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726472068435?e=1732147200&v=beta&t=yn7NhX6NHaXrilBl70rvvMXCRLIwJDstxEbHaRQWoeE"> 
+<h3 align="center">Independent Web Developer | Web Consultant & Digital Strategist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devahsan7&label=Profile%20views&color=0e75b6&style=flat" alt="devahsan7" /> </p>
 
